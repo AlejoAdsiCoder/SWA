@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Indicaciones para iniciar la aplicación
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Suele tardar alrededor de 5 segundos para traer los datos de la solicitud
+
+1) clonar
+2) instalar dependencias: npm i
+3) Ejecutar: npm start
 
 ## Available Scripts
 
